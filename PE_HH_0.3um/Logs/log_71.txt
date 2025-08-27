@@ -1,0 +1,46 @@
+Model type: 	Point electrode
+Parameter ID:	71
+Pulse duration in ms:	0.0310
+N:	31
+-----------------------------------------------------------
+Solver: macro
+ 
+Initial search with:  	-0.3854 mA: 	 no AP.
+Increasing amplitude: 	-0.5451 mA: 	 no AP.
+Increasing amplitude: 	-0.7709 mA: 	 AP.
+Lower bound: -0.5451 mA.   Upper bound: -0.7709 mA.   Search amplitude: -0.6482 mA: AP.
+Lower bound: -0.5451 mA.   Upper bound: -0.6482 mA.   Search amplitude: -0.5944 mA: AP.
+Lower bound: -0.5451 mA.   Upper bound: -0.5944 mA.   Search amplitude: -0.5692 mA: no AP.
+Lower bound: -0.5692 mA.   Upper bound: -0.5944 mA.   Search amplitude: -0.5817 mA: AP.
+Lower bound: -0.5692 mA.   Upper bound: -0.5817 mA.   Search amplitude: -0.5754 mA: no AP.
+Lower bound: -0.5754 mA.   Upper bound: -0.5817 mA.   Search amplitude: -0.5785 mA: AP.
+Lower bound: -0.5754 mA.   Upper bound: -0.5785 mA.   Search amplitude: -0.5770 mA: AP.
+Lower bound: -0.5754 mA.   Upper bound: -0.5770 mA.   Search amplitude: -0.5762 mA: no AP.
+Lower bound: -0.5762 mA.   Upper bound: -0.5770 mA.   Search amplitude: -0.5766 mA: no AP.
+Lower bound: -0.5766 mA.   Upper bound: -0.5770 mA.   Search amplitude: -0.5768 mA: AP.
+Binary search ended. Threshold: -0.5768 mA.
+ 
+Run time for search: 4.61 min.
+ 
+-----------------------------------------------------------
+Solver: micro
+ 
+Initial search with:  	-0.5234 mA: 	 no AP.
+Increasing amplitude: 	-0.6225 mA: 	 AP.
+Lower bound: -0.5234 mA.   Upper bound: -0.6225 mA.   Search amplitude: -0.5708 mA: no AP.
+Lower bound: -0.5708 mA.   Upper bound: -0.6225 mA.   Search amplitude: -0.5961 mA: AP.
+Lower bound: -0.5708 mA.   Upper bound: -0.5961 mA.   Search amplitude: -0.5833 mA: AP.
+Lower bound: -0.5708 mA.   Upper bound: -0.5833 mA.   Search amplitude: -0.5770 mA: AP.
+Lower bound: -0.5708 mA.   Upper bound: -0.5770 mA.   Search amplitude: -0.5739 mA: no AP.
+Lower bound: -0.5739 mA.   Upper bound: -0.5770 mA.   Search amplitude: -0.5755 mA: no AP.
+Lower bound: -0.5755 mA.   Upper bound: -0.5770 mA.   Search amplitude: -0.5763 mA: AP.
+Lower bound: -0.5755 mA.   Upper bound: -0.5763 mA.   Search amplitude: -0.5759 mA: AP.
+Lower bound: -0.5755 mA.   Upper bound: -0.5759 mA.   Search amplitude: -0.5757 mA: no AP.
+Binary search ended. Threshold: -0.5757 mA.
+Percentage difference: -0.157 %.
+ 
+Run time for search: 0.73 min.
+ 
+-----------------------------------------------------------
+Total run time: 5.840 min.
+Results saved in PE_HH_0.3um/Results/result_71.mat.

@@ -1,0 +1,45 @@
+Model type: 	Axon terminal
+Parameter ID:	273
+Pulse duration in ms:	0.1000
+N:	73
+-----------------------------------------------------------
+Solver: macro
+ 
+Initial search with:  	0.4809 kV/m: 	 AP.
+Decreasing amplitude: 	0.3400 kV/m: 	 no AP.
+Lower bound: 0.3400 kV/m.   Upper bound: 0.4809 kV/m.   Search amplitude: 0.4044 kV/m: AP.
+Lower bound: 0.3400 kV/m.   Upper bound: 0.4044 kV/m.   Search amplitude: 0.3708 kV/m: AP.
+Lower bound: 0.3400 kV/m.   Upper bound: 0.3708 kV/m.   Search amplitude: 0.3551 kV/m: no AP.
+Lower bound: 0.3551 kV/m.   Upper bound: 0.3708 kV/m.   Search amplitude: 0.3628 kV/m: AP.
+Lower bound: 0.3551 kV/m.   Upper bound: 0.3628 kV/m.   Search amplitude: 0.3589 kV/m: no AP.
+Lower bound: 0.3589 kV/m.   Upper bound: 0.3628 kV/m.   Search amplitude: 0.3609 kV/m: AP.
+Lower bound: 0.3589 kV/m.   Upper bound: 0.3609 kV/m.   Search amplitude: 0.3599 kV/m: no AP.
+Lower bound: 0.3599 kV/m.   Upper bound: 0.3609 kV/m.   Search amplitude: 0.3604 kV/m: no AP.
+Lower bound: 0.3604 kV/m.   Upper bound: 0.3609 kV/m.   Search amplitude: 0.3606 kV/m: AP.
+Lower bound: 0.3604 kV/m.   Upper bound: 0.3606 kV/m.   Search amplitude: 0.3605 kV/m: AP.
+Binary search ended. Threshold: 0.3605 kV/m.
+ 
+Run time for search: 26.55 min.
+ 
+-----------------------------------------------------------
+Solver: micro
+ 
+Initial search with:  	0.3313 kV/m: 	 no AP.
+Increasing amplitude: 	0.3940 kV/m: 	 AP.
+Lower bound: 0.3313 kV/m.   Upper bound: 0.3940 kV/m.   Search amplitude: 0.3613 kV/m: AP.
+Lower bound: 0.3313 kV/m.   Upper bound: 0.3613 kV/m.   Search amplitude: 0.3460 kV/m: no AP.
+Lower bound: 0.3460 kV/m.   Upper bound: 0.3613 kV/m.   Search amplitude: 0.3536 kV/m: no AP.
+Lower bound: 0.3536 kV/m.   Upper bound: 0.3613 kV/m.   Search amplitude: 0.3574 kV/m: no AP.
+Lower bound: 0.3574 kV/m.   Upper bound: 0.3613 kV/m.   Search amplitude: 0.3594 kV/m: no AP.
+Lower bound: 0.3594 kV/m.   Upper bound: 0.3613 kV/m.   Search amplitude: 0.3603 kV/m: no AP.
+Lower bound: 0.3603 kV/m.   Upper bound: 0.3613 kV/m.   Search amplitude: 0.3608 kV/m: AP.
+Lower bound: 0.3603 kV/m.   Upper bound: 0.3608 kV/m.   Search amplitude: 0.3606 kV/m: AP.
+Lower bound: 0.3603 kV/m.   Upper bound: 0.3606 kV/m.   Search amplitude: 0.3605 kV/m: no AP.
+Binary search ended. Threshold: 0.3605 kV/m.
+Percentage difference: 0.020 %.
+ 
+Run time for search: 23.27 min.
+ 
+-----------------------------------------------------------
+Total run time: 50.895 min.
+Results saved in UF_HH_0.3um/Results/result_273.mat.

@@ -1,0 +1,49 @@
+Model type: 	Point electrode
+Parameter ID:	133
+Pulse duration in ms:	0.3100
+N:	13
+-----------------------------------------------------------
+Solver: macro
+ 
+Initial search with:  	-4.3441 uA: 	 no AP.
+Increasing amplitude: 	-6.1434 uA: 	 no AP.
+Increasing amplitude: 	-8.6881 uA: 	 no AP.
+Increasing amplitude: 	-12.2869 uA: 	 no AP.
+Increasing amplitude: 	-17.3763 uA: 	 no AP.
+Increasing amplitude: 	-24.5738 uA: 	 AP.
+Lower bound: -17.3763 uA.   Upper bound: -24.5738 uA.   Search amplitude: -20.6640 uA: no AP.
+Lower bound: -20.6640 uA.   Upper bound: -24.5738 uA.   Search amplitude: -22.5342 uA: no AP.
+Lower bound: -22.5342 uA.   Upper bound: -24.5738 uA.   Search amplitude: -23.5319 uA: AP.
+Lower bound: -22.5342 uA.   Upper bound: -23.5319 uA.   Search amplitude: -23.0277 uA: AP.
+Lower bound: -22.5342 uA.   Upper bound: -23.0277 uA.   Search amplitude: -22.7796 uA: no AP.
+Lower bound: -22.7796 uA.   Upper bound: -23.0277 uA.   Search amplitude: -22.9033 uA: no AP.
+Lower bound: -22.9033 uA.   Upper bound: -23.0277 uA.   Search amplitude: -22.9654 uA: no AP.
+Lower bound: -22.9654 uA.   Upper bound: -23.0277 uA.   Search amplitude: -22.9965 uA: no AP.
+Lower bound: -22.9965 uA.   Upper bound: -23.0277 uA.   Search amplitude: -23.0121 uA: no AP.
+Lower bound: -23.0121 uA.   Upper bound: -23.0277 uA.   Search amplitude: -23.0199 uA: AP.
+Binary search ended. Threshold: -23.0199 uA.
+ 
+Run time for search: 1.61 min.
+ 
+-----------------------------------------------------------
+Solver: micro
+ 
+Initial search with:  	-20.8827 uA: 	 no AP.
+Increasing amplitude: 	-24.8338 uA: 	 AP.
+Lower bound: -20.8827 uA.   Upper bound: -24.8338 uA.   Search amplitude: -22.7727 uA: no AP.
+Lower bound: -22.7727 uA.   Upper bound: -24.8338 uA.   Search amplitude: -23.7810 uA: AP.
+Lower bound: -22.7727 uA.   Upper bound: -23.7810 uA.   Search amplitude: -23.2714 uA: AP.
+Lower bound: -22.7727 uA.   Upper bound: -23.2714 uA.   Search amplitude: -23.0207 uA: AP.
+Lower bound: -22.7727 uA.   Upper bound: -23.0207 uA.   Search amplitude: -22.8964 uA: no AP.
+Lower bound: -22.8964 uA.   Upper bound: -23.0207 uA.   Search amplitude: -22.9585 uA: AP.
+Lower bound: -22.8964 uA.   Upper bound: -22.9585 uA.   Search amplitude: -22.9274 uA: AP.
+Lower bound: -22.8964 uA.   Upper bound: -22.9274 uA.   Search amplitude: -22.9119 uA: no AP.
+Lower bound: -22.9119 uA.   Upper bound: -22.9274 uA.   Search amplitude: -22.9196 uA: no AP.
+Binary search ended. Threshold: -22.9196 uA.
+Percentage difference: -0.402 %.
+ 
+Run time for search: 0.84 min.
+ 
+-----------------------------------------------------------
+Total run time: 2.604 min.
+Results saved in PE_RMG_0.3um/Results/result_133.mat.

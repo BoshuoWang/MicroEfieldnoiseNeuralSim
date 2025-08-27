@@ -1,0 +1,46 @@
+Model type: 	Axon terminal
+Parameter ID:	469
+Pulse duration in ms:	1.0000
+N:	69
+-----------------------------------------------------------
+Solver: macro
+ 
+Initial search with:  	0.1125 kV/m: 	 AP.
+Decreasing amplitude: 	79.5591  V/m: 	 AP.
+Decreasing amplitude: 	56.2567  V/m: 	 no AP.
+Lower bound: 56.2567  V/m.   Upper bound: 79.5591  V/m.   Search amplitude: 66.9009  V/m: AP.
+Lower bound: 56.2567  V/m.   Upper bound: 66.9009  V/m.   Search amplitude: 61.3484  V/m: no AP.
+Lower bound: 61.3484  V/m.   Upper bound: 66.9009  V/m.   Search amplitude: 64.0645  V/m: no AP.
+Lower bound: 64.0645  V/m.   Upper bound: 66.9009  V/m.   Search amplitude: 65.4674  V/m: no AP.
+Lower bound: 65.4674  V/m.   Upper bound: 66.9009  V/m.   Search amplitude: 66.1803  V/m: no AP.
+Lower bound: 66.1803  V/m.   Upper bound: 66.9009  V/m.   Search amplitude: 66.5396  V/m: no AP.
+Lower bound: 66.5396  V/m.   Upper bound: 66.9009  V/m.   Search amplitude: 66.7200  V/m: AP.
+Lower bound: 66.5396  V/m.   Upper bound: 66.7200  V/m.   Search amplitude: 66.6298  V/m: AP.
+Lower bound: 66.5396  V/m.   Upper bound: 66.6298  V/m.   Search amplitude: 66.5847  V/m: no AP.
+Lower bound: 66.5847  V/m.   Upper bound: 66.6298  V/m.   Search amplitude: 66.6072  V/m: AP.
+Binary search ended. Threshold: 66.6072  V/m.
+ 
+Run time for search: 18.60 min.
+ 
+-----------------------------------------------------------
+Solver: micro
+ 
+Initial search with:  	59.1330  V/m: 	 no AP.
+Increasing amplitude: 	70.3214  V/m: 	 AP.
+Lower bound: 59.1330  V/m.   Upper bound: 70.3214  V/m.   Search amplitude: 64.4850  V/m: no AP.
+Lower bound: 64.4850  V/m.   Upper bound: 70.3214  V/m.   Search amplitude: 67.3400  V/m: AP.
+Lower bound: 64.4850  V/m.   Upper bound: 67.3400  V/m.   Search amplitude: 65.8970  V/m: no AP.
+Lower bound: 65.8970  V/m.   Upper bound: 67.3400  V/m.   Search amplitude: 66.6146  V/m: no AP.
+Lower bound: 66.6146  V/m.   Upper bound: 67.3400  V/m.   Search amplitude: 66.9763  V/m: AP.
+Lower bound: 66.6146  V/m.   Upper bound: 66.9763  V/m.   Search amplitude: 66.7952  V/m: AP.
+Lower bound: 66.6146  V/m.   Upper bound: 66.7952  V/m.   Search amplitude: 66.7048  V/m: AP.
+Lower bound: 66.6146  V/m.   Upper bound: 66.7048  V/m.   Search amplitude: 66.6597  V/m: AP.
+Lower bound: 66.6146  V/m.   Upper bound: 66.6597  V/m.   Search amplitude: 66.6371  V/m: AP.
+Binary search ended. Threshold: 66.6371  V/m.
+Percentage difference: 0.045 %.
+ 
+Run time for search: 12.72 min.
+ 
+-----------------------------------------------------------
+Total run time: 31.702 min.
+Results saved in UF_HH_0.3um/Results/result_469.mat.

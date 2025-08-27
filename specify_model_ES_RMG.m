@@ -85,10 +85,10 @@ l_n = 1e-4;                 % Nodal length, in cm; 1 um
 % 5 * tau_c = 0.94 us  ->  reaching 99.3% of steady state TP
 
 % Ion channel parameters for nodes, in mV & mS/cm^2;
-V_rest = -80;                       % in MRG 2002: -80;
-E_Na = 50;        g_Na = 3000;      g_Nap = 10;  % fast & persistent Na
-E_K  = -90;       g_K  = 80;        % Slow K
-E_L  = -90;       g_L  = 7;         % Leakage
+V_rest = -82;                       % in MRG 2002: -80;
+E_Na = 50;        g_Na = 3000;      g_Nap = 5;  % fast & persistent Na
+E_K  = -84;       g_K  = 80;        % Slow K
+E_L  = -83.38;    g_L  = 80;        % Leakage
 % g_bar = 104.3 mS/cm^2 at rest -> r_m = 0.0096 kOhm*cm^2
 % tau_n = 19.2 us
 
