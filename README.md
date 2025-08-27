@@ -13,7 +13,8 @@ Field distribution folder: files that analyze and generate E-field distributions
 
 Neural simulations: adapted from [2]
 
-main_ES.m: main function running simulations. 
+main_ES.m: main function running simulations.
+		
 		mod_prmtr: structure specifying model parameter:
 			model_name                Model: 'UF', 'PE'
 			model_axon                Axon:  'HH', 'MRG'
