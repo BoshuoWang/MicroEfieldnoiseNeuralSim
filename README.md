@@ -1,5 +1,5 @@
 # MicroEfieldnoiseNeuralSim
-Code and data for simulation of neural response to E-field with microscopic noise. Cite as: Wang B, Dataset: MicroEfieldnoiseNeuralSim, https:doi.org/10.5281/zenodo.16949817
+Code and data for simulation of neural response to E-field with microscopic noise. Cite as: Wang B, Dataset: MicroEfieldnoiseNeuralSim, https://doi.org/10.5281/zenodo.16949817
 
 Associated publications:
 [1]  Wang B, Hussain M A, Worbs T, Thielscher A, Grill W M and Peterchev A V 2025 Single pointwise samples of electric field on a neuron model cannot predict activation threshold by brain stimulation 2025.07.31.667968. https://doi.org/10.1101/2025.07.31.667968 
